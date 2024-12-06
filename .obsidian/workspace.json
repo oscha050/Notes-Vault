@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kolla på det här.md",
+                "file": "Git test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kolla på det här"
+              "title": "Git test"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kolla på det här.md",
+                "file": "Git test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kolla på det här"
+              "title": "Backlinks for Git test"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kolla på det här.md",
+                "file": "Git test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kolla på det här"
+              "title": "Outgoing links from Git test"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kolla på det här.md"
+                "file": "Git test.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kolla på det här"
+              "title": "Outline of Git test"
             }
           }
         ]
@@ -178,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb4f47057af32b97",
+  "active": "94849f8e5e850542",
   "lastOpenFiles": [
-    "Git test.md",
     "Kolla på det här.md",
+    "Git test.md",
     "conflict-files-obsidian-git.md",
     "Hello.md"
   ]
