@@ -28,4 +28,8 @@ Most other md formatting works in blockqoutes
 2. The number doesn't matter
 Use 1. for ordered lists. The number doesn't matter as md will auto format numbers in falling order. Using indents will make sub lists. In HTML use <"ol"> and <"/ol"> for the list and <"li"> and <"/li"> for each item
 ### Unordered lists
+- This is a unordered list
+- Avoid mixing characters 
+- Using "-" will avoid software correcting it to **Bold** or *italics*
+
 
