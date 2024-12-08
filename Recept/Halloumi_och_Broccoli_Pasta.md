@@ -1,6 +1,7 @@
 
 # Halloumi och Broccoli Pasta
 En god gräddbaserad pastasås med halloumi och broccoli
+
 ## Ingredienser (4 portioner)
 - 200 g halloumi, skuren i tärningar  
 - 1 broccolibukett (ca 250 g), delad i små bitar  
@@ -22,7 +23,7 @@ En god gräddbaserad pastasås med halloumi och broccoli
    Hetta upp olivolja i en stor stekpanna på medelvärme. Stek halloumitärningarna tills de blir gyllene och krispiga. Ta upp dem ur pannan och lägg åt sidan.
 
 3. **Fräs broccoli och vitlök:**  
-   I samma panna, tillsätt eventuellt mer olivolja och fräs vitlök och broccolibitar i några minuter tills broccolin börjar mjukna men fortfarande har tuggmotstånd.
+   I samma panna, tillsätt eventuellt mer olivolja och fräs vitlök och broccolibitar i några minuter tills broccolin börjar mjukna men fortfarande har tuggmotstånd. När det fräst ihop tillsätt vinet och låt reducera.
 
 4. **Gör såsen:**  
    Tillsätt grädde, mjölk och citronsaft till pannan med broccolin. Rör om och låt småputtra i några minuter. Tillsätt chiliflakes om du vill ha lite hetta. Smaka av med salt och peppar.
@@ -35,8 +36,3 @@ En god gräddbaserad pastasås med halloumi och broccoli
 
 7. **Servera:**  
    Toppa med lite extra svartpeppar eller färska örter som persilja eller basilika. Servera genast!
-
-## Tips
-- För en extra smakdimension kan du tillsätta **1 dl vitt vin** efter att ha fräst vitlöken och broccolin. Låt det reducera innan du tillsätter grädde och mjölk.
-
-Hoppas det smakar!
