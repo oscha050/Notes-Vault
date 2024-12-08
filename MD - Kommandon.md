@@ -48,6 +48,12 @@ Use ! to add an image, using [text] you can add a image text followed by (link o
 
 
 ## Tables
-| column 1 | column2 |
-|___|___|___|
-
+| HeadRow | column2 | Column3 |
+| ------- | ------- | ------- |
+| Row2    |         |         |
+| Row3    |         |         |
+|
+|---|---|---|
+|
+|---|---|---|
+Format
