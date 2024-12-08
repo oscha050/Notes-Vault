@@ -18,4 +18,4 @@ Use > for blockqoutes, for multiple paragraph blockquotes include a > on an empt
 Most other md formatting works in blockqoutes
 ## Lists
 ### Ordered list
-
+Use 1. for ordered lists. The number doesn't matter as md will auto format 
