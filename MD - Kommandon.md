@@ -42,6 +42,6 @@ Use *** or --- or ___ by themselves on a line to create a horizontal line as sho
 Use [ ] for the name and follow with ( ) for the URL. With the link you can add text in " " to display when the link is hovered over with mouse. For a quick link enclose the URL in < >, the displayed text will be the URL. Also works with e-mail addresses. Emphasis works with links.
 Alternatively putting the name in [ ] followed by a number in [ ] it will point to the number which will be formatted as: ["1"]: <"URL"> "Display when hovered on"
 ## Images
-Use ! to add an image, using [text] you can add a image text
+Use ! to add an image, using [text] you can add a image text followed by (link or Path to image) with optional " " by the link for same effect as in "Links"
 
 
