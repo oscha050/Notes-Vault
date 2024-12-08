@@ -1,14 +1,13 @@
 
 # Halloumi och Broccoli Pasta
-
-En smakrik och enkel pastarätt med halloumi och broccoli. Perfekt för vardagen!
-
+En god gräddbaserad pastasås med halloumi och broccoli
 ## Ingredienser (4 portioner)
 - 200 g halloumi, skuren i tärningar  
 - 1 broccolibukett (ca 250 g), delad i små bitar  
 - 2 vitlöksklyftor, hackade  
+- 1 dl Vitt vin (Valfritt)
 - 2 dl grädde (eller matlagningsgrädde)  
-- 1 dl mjölk  
+- 1 dl mjölk  (eller mer grädde)
 - 1 citron (zest och saft)  
 - 2 msk olivolja  
 - 1 tsk chiliflakes (valfritt)  
