@@ -14,4 +14,7 @@ Use * or _ in both ends in markdown for italic text, * works even in the middle 
 ### Bold and Italics
 Use ***  or any combination of the Bold/Italics alternatives in both ends in markdown for bold and italic text, *** works even in the middle of words, in HTML use <"em"><"strong"> in the beginning and <"/strong"><"/em"> in the end instead
 ### Blockquotes
-Use > for blockqoutes, for multiple paragraph blockquotes include a > on an empty line 
+Use > for blockqoutes, for multiple paragraph blockquotes include a > on an empty line. For nested blockqoutes use >>. In order to avoid problems use a blank line before and after the blockqoute.
+Most other md formatting works in blockqoutes
+## Lists
+
