@@ -2,10 +2,10 @@
 ### Headings
 Use # up to 6 times for heading levels, the more the smaller
 ### Paragraphs 
-Use <"p"> in the beginning of a pargraph and <"/p"> in the end of a pargraph to automatically format it.
-Avoid using TAB or spaces in the beginning of a line as it can cause formating errors
+Use <"p"> in the beginning of a paragraph and <"/p"> in the end of a paragraph to automatically format it.
+Avoid using TAB or spaces in the beginning of a line as it can cause formatting errors
 ### Line Breaks
-Add a line break at any point by using <"br"> (only in HTML can be used in md but a simple return works aswell)
+Add a line break at any point by using <"br"> (only in HTML can be used in md but a simple return works as well)
 ## Emphasis
 ### Bold
 Use ** or __ in both ends in markdown for bold text, ** works even in the middle of words, in HTML use <"strong"> in the beginning and <"/strong"> in the end instead
