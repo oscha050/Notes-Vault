@@ -39,4 +39,6 @@ ___
 
 Use *** or --- or ___ by themselves on a line to create a horizontal line as shown above
 ### Links
+Use [ ] for the name and follow with ( ) for the actual link
+
 
