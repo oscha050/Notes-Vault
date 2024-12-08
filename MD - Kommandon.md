@@ -34,6 +34,8 @@ Use 1. for ordered lists. The number doesn't matter as md will auto format numbe
 - Using "-" will avoid software correcting it to **Bold** or *italics*
 Use - or * or + for a unordered list. Do not mix between the options as this can cause problems. Best practice is using - as this will avoid potential conflicts with **bold** and *italics*. Indenting will give sub lists.
 ### Horizontal Rules
+
 ___
+
 Use *** or --- or ___ by themselves on a line to create a horizontal line as shown above
 
