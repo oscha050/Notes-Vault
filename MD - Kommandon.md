@@ -56,4 +56,4 @@ Use ! to add an image, using [text] you can add a image text followed by (link o
 |---|---|---|
 |
 |---|---|---|
-Format
+Create a table by using | as spaces between the columns and the second row has to be on the form |-------|------|-------|. 
