@@ -1,0 +1,6 @@
+- Grafik
+	- Explosioner
+- AI
+	- BFS
+	- Raytracing?
+- 
