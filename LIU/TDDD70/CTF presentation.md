@@ -6,3 +6,4 @@
 - Realistic Physics
 	- Recoil
 	- point turning
+- Multiplayer mode
