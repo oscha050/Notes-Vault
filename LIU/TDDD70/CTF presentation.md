@@ -3,4 +3,6 @@
 - AI
 	- BFS
 	- Raytracing?
-- 
+- Realistic Physics
+	- Recoil
+	- point turning
