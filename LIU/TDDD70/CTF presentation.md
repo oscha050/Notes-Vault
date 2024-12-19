@@ -1,9 +1,0 @@
-- Grafik
-	- Explosioner
-- AI
-	- BFS
-	- Raytracing?
-- Realistic Physics
-	- Recoil
-	- point turning
-- Multiplayer mode
