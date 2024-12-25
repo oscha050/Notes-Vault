@@ -32,7 +32,15 @@ Områden som får arbeta: höftflexorerna, psoas
 20 sek rep 3 rep per ben
 
 ## NY
-1. Quadricep stretch 2 x 20 sek per ben
-2. Hamstring stretch 2 x 20 sek per ben
-3. Vad stretch 2 x 20 sek per ben
-4. 
+1. Huvudstretch (varje övning 2 x 20 sek per ben)
+	1. Quadricep stretch 
+	2. Hamstring stretch 
+	3. Vad stretch 
+2. Skräddarsits
+3. Sidoutall (Stretch av ljumske)
+4. Sitta på tår (Stretch av fotsulor)
+5. Sitta på hälar med tår pekandes bakåt (Stretch av smalben)
+6. Huvudstretch (varje övning 1 x 20 sek per ben)
+	1. Quadricep stretch
+	2. Hamstring stretch
+	3. Vad stretch
