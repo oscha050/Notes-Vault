@@ -30,3 +30,9 @@ Områden som får arbeta: höftflexorerna, psoas
 ### 8 Hamstring Stretch
 ![Hastring stretch](https://sportsrehab.se/wp-content/uploads/2021/01/Hamstring-stretch.gif)
 20 sek rep 3 rep per ben
+
+## NY
+1. Quadricep stretch 2 x 20 sek per ben
+2. Hamstring stretch 2 x 20 sek per ben
+3. Vad stretch 2 x 20 sek per ben
+4. 
