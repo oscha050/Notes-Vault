@@ -7,16 +7,17 @@ En klassisk koreansk risrätt med färgstarka grönsaker, saftig kyckling och en
 ## Ingredienser
 
 ### Bas
-- 4 portioner kokt ris (helst kortkornigt ris, t.ex. sushiris eller jasminris)
+- 4 portioner kokt ris (helst kortkornigt ris, t.ex. sushiris eller jasminris men basmati funkar också bra)
 
 ### Kyckling
 - 400–500 g kycklinglårfilé eller kycklingfilé
-- 2 msk soja
-- 1 msk sesamolja
-- 1 msk socker (eller honung)
-- 1 vitlöksklyfta, riven
-- 1 tsk riven ingefära
-- 1 tsk gochujang (valfritt, för lite hetta)
+- Marinad
+	- 2 msk soja
+	- 1 msk sesamolja
+	- 1 msk socker (eller honung)
+	- 1 vitlöksklyfta, riven
+	- 1 tsk riven ingefära
+	- 1 tsk gochujang (valfritt, för lite hetta)
 
 ### Biff
 - ca 500g Lövbiff
@@ -26,6 +27,7 @@ En klassisk koreansk risrätt med färgstarka grönsaker, saftig kyckling och en
 	- Honung/brunt socker
 	- Pressad vitlök
 	- Ingefära
+	- Gochujang (valfritt)
 
 ### Grönsakstoppings (förslag)
 - 2 morötter, strimlade
@@ -34,7 +36,7 @@ En klassisk koreansk risrätt med färgstarka grönsaker, saftig kyckling och en
 - 1 liten burk böngroddar (eller färska)
 - 150 g shiitake- eller champinjoner, skivade
 - 1-2 Gurkor strimlade (Gärna marinerad i risvinäger)
-- 1–2 ägg per person (stekta med lös gula)
+- 1 ägg per person (stekta med lös gula)
 - Sesamfrön & vårlök till topping
 
 ### Sås
@@ -54,9 +56,9 @@ En klassisk koreansk risrätt med färgstarka grönsaker, saftig kyckling och en
 - Koka enligt anvisning – fluffigt och inte för torrt.
 - Håll varmt till servering.
 
-### 2. Marinera & stek kycklingen
-- Skär kycklingen i mindre bitar eller skivor.
-- Blanda soja, sesamolja, socker, vitlök, ingefära och ev. gochujang.
+### 2. Marinera & stek proteinet
+- Skär proteinet i mindre bitar eller strimlor.
+- Blanda marinaden
 - Låt marinera i 15–30 min (eller längre).
 - Stek tills gyllene och genomstekt.
 
