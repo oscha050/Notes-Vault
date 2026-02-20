@@ -1,6 +1,6 @@
 # SSH
 För att ansluta till LIU servrar behöver man antingen vara ansluten till LiU:s nätverk eller använda deras VPN.
-Detta ska gå att kringå genom att ssh'a till lysators servrar och sedan ssh'a vidare då men hamnar på rätt nätverk.
+Detta ska gå att kringå genom att ssh'a till lysators servrar och sedan ssh'a vidare då man hamnar på rätt nätverk.
 ## Ansluta till LIU:s servrar
 ``` ssh -X abcde123@ssh.edu.liu.se ```
 
