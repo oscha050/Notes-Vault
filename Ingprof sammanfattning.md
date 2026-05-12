@@ -9,13 +9,6 @@ Han lyfte också att misslyckande är en naturlig och viktig del av utvecklingen
 Ytterliggare en poäng han tryckte på var synen på AI. Han påpekade att man inte bara ska se det som ett verktyg för att automatisera saker utan att man även kan använda det till att bolla idéer, reflektera och utvecklas i sitt arbete.
 Sammanfattningsvis fick intervjun mig att tänka mer på vikten av balans, självdisciplin och att våga misslyckas, snarare än att bara fokusera på prestation och att bli klar inom ramen för den planerade tiden.
 
-## Råd & Tips
-* Engagera dig i saker utanför studierna
-* Hitta en bra balans mellan studier och fritid
-* Det är inte så viktigt att bli färdig på 5 år (han klarade på 6,5 år)
-* Lär dig misslyckas
-    * Skriv tentor som man inte är helt förberedd på och lär dig att hantera misslyckandet och dra lärdomar från de.
-
 ## Frågor till gruppen
 
 1. Prioritering
