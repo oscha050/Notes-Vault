@@ -23,5 +23,43 @@
 * I matris organisationer fokuserar man på linjer och projekt
 ### Matris organisation
 [INSERT PICTURE HERE]
+# Rekomenderade Roller
+## Project Manager
+- Ansvarig för organisation
+## Line Manager
+## Product Manager
+- Voice of the customer
+- Decides 
+## Lead Analyst
+* Analyses needs and expectations of customer*
+## QA Lead
+- Assuring quality of deliveries
+## Technical Writer
+- Responsible for technical Documentation
+## Tester
+- Manual & Automated Tests
+## R&D Manager
+## Architect
+- Guide development
+-  Explain the thinking/architecture to customer
+## Configuration Manager
+- Responsible for version controll
+## Process Manager
+## Deployemnet Manager
+- Maintaining continous deployment of product
+## UX Designer
+- Have AI Agents in mind
+## Developer
+- Implements technical solution
+# How to Assign Roles
+
+# Adaptation
+- Circumstances Change
+- Change the meaning of somebody's role
+- Swap roles 
+- Create new roles
+
+-  Do not let a limited role scope excuse allowing the project to go awry
+- Roles come with responsibilities and mandate
 
 
