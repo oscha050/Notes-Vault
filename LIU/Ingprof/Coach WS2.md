@@ -65,16 +65,3 @@ T - 3 månader
 - Att förklara/lära coachen en skala
 
 
-
-**Relflektion**
-Coacheen upplevde coachningen som bra och det kändes positivt att coachen har viss musikalisk erfarenhet. Lätt att prata och jobba med.
-Coacheen upplevde coachen som stöttande och positivt inställd till målet och planen.
-Coacheen tyckte att coachen ställde bra följdfrågor.
-Coacheen önskar att coachen ska bestämma en tydligare mötesplats till nästa gång.
-
-Markus Thyrén marth104 u15
-Oscar Hallbeck oscha050 D10
-Utanför C huset
-3/9 13:15-14:20
-
-
