@@ -32,3 +32,6 @@
 - Implement redundant subsystems
 - Schedule maintenance windows
 ### Balancing
+
+
+## Basics of Dependability
