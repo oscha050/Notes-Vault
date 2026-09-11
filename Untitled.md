@@ -35,3 +35,9 @@
 
 
 ## Basics of Dependability
+Fault->Error->Failure
+
+|              | Fault                  | Error | Failure |
+| ------------ | ---------------------- | ----- | ------- |
+| HW (example) | Bit Flip               |       |         |
+| SW (example) | Incorrectly programmed |       |         |
