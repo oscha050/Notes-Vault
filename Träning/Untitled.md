@@ -5,13 +5,13 @@
 **Time:** ~52–58 min including mobility  
 **Frequency:** 1–2×/week
 
-|Exercise|Sets × reps|Main quality|
-|---|--:|---|
-|Trap-bar deadlift|3 × 4–6|Max strength|
-|Overhead press|3 × 5–8|Upper-body strength|
-|Weighted pull-up|3 × 5–8|Pulling strength|
-|Bulgarian split squat|2 × 6–8/leg|Unilateral strength|
-|Farmer's carry|3 × 30–40 m|Load carriage|
+| Exercise                             | Sets × reps | Main quality        |
+| ------------------------------------ | ----------: | ------------------- |
+| Trap-bar deadlift                    |     3 × 4–6 | Max strength        |
+| Overhead press                       |     3 × 5–8 | Upper-body strength |
+| Weighted pull-up                     |     3 × 5–8 | Pulling strength    |
+| Bulgarian split squat (Skier squats) | 2 × 6–8/leg | Unilateral strength |
+| Farmer's carry                       | 3 × 30–40 m | Load carriage       |
 ## Exercises
 ### 1. Trap-bar deadlift
 
